@@ -1,0 +1,180 @@
+.main-body{
+    background-color: #f0f2f5;
+    width: 100%;
+    height: 740px;
+}
+body{
+    margin: 0%;
+}
+.left-section{
+    width: 600px;
+    margin-left: 120px;
+    margin-top: 180px;
+    float: left;
+
+}
+
+.right-section{
+    width: 400px;
+    height: 609px;
+    float: left;
+    padding-top: 130px;
+}
+
+.logo{
+    width: 300px;
+    margin: 0%;
+}
+.description{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    margin-top: -10px;
+    margin-left: 31px;
+}
+.box{
+    background-color: white;
+    width: 400px;
+    height: 380px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px 10px #e9e9e9;
+
+}
+.form{
+    padding: 15px;
+    margin-top: 20px;
+    margin-left: 15px;
+    height: 55px;
+    width: 370px;
+    border-radius: 5px;
+    font-size: 17px;
+    box-sizing: border-box;
+    border: 1px solid lightgrey;
+    
+}
+.button1{
+    margin-top: 20px;
+    margin-left: 15px;
+    height: 55px;
+    width: 370px;
+    border-radius: 5px;
+    font-size: 20px;
+    box-sizing: border-box;
+    background-color: #1877f2;
+    border: white;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+.button1:hover{
+    background-color: #1470e9;
+}
+.button2{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 15px;
+    height: 15px;
+    width: 370px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    color: #1470e9;
+    cursor: pointer;
+}
+
+.button2:hover{
+    text-decoration: underline;
+}
+.button3{
+
+    margin-top: 12px;
+    margin-left: 90px;
+    height: 50px;
+    width: 220px;
+    border-radius: 5px;
+    font-size: 16px;
+    box-sizing: border-box;
+    background-color: #42b72a;
+    border: white;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+.button3:hover{
+    background-color: #3daf26;
+}
+.page{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+}
+.page:hover{
+    text-decoration: underline;
+}
+.page-side{
+    margin-top: 27px;
+    text-decoration: none;
+    color: black;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+.bottom-section{
+    width: 100%;
+    float: left;
+    padding-top: 25px;
+}
+
+.lang{
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    margin-left: 150px;
+    color: gray;
+    width: 900px;
+    margin-right: 0px;
+    margin-bottom: 5px;
+    padding-left: 0px;
+}
+.lang li{
+    display: inline;
+    margin-right: 10px;
+    padding-left: 0px;
+}
+.lang2{
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    margin-left: 150px;
+    color: gray;
+    width: 950px;
+    margin-right: 0px;
+    margin-bottom: 5px;
+    margin-top: -3px;
+    line-height: 21px;
+    padding-left: 0px;
+}
+.lang2 li{
+    display: inline;
+    margin-right: 19px;
+    
+}
+.lang3{
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    margin-left: 150px;
+    color: gray;
+    width: 950px;
+    margin-right: 0px;
+    margin-bottom: 5px;
+    word-spacing: 5px;
+    margin-top: 20px;
+
+}
+
+
+.button4{
+    float: left;
+}
